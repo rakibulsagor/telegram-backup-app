@@ -1,7 +1,8 @@
 from telegram import Bot
 import asyncio
 
-BOT_TOKEN = "7682615010:AAEw4qJqGRSHci4cfcLTf8Q18RCMiisuKCg"
+BOT_TOKEN = "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" // Replace with your bot token
+CHANNEL_ID = "-XXXXXXXXXXXXX"  # Replace with your channel ID (e.g., "-1001234567890" for a channel)
 
 async def main():
     bot = Bot(token=BOT_TOKEN)

@@ -6,8 +6,9 @@ from telegram import Bot
 from telegram.constants import ChatAction
 
 # ==== CONFIG ====
-BOT_TOKEN = "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-CHANNEL_ID = "-XXXXXXXXXXXXX"
+BOT_TOKEN = "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" // Replace with your bot token
+# Replace with your channel ID (e.g., "-1001234567890" for a channel)
+CHANNEL_ID = "-XXXXXXXXXXXXX" // Replace with your channel ID   
 # ================
 
 bot = Bot(token=BOT_TOKEN)
