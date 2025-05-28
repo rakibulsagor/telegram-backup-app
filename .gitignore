@@ -1,0 +1,8 @@
+
+---
+
+## Step 3: Create `.gitignore`
+
+Create a file `.gitignore` with this content to ignore Python cache files and virtual envs:
+
+
